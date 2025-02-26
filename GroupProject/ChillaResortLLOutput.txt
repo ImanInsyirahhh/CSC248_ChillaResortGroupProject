@@ -1,0 +1,133 @@
+
+=================================================================================================================================================================================
+						All Resort Customers Records in LinkedList
+=================================================================================================================================================================================
+  NAME                      EMAIL                PHONE NUMBER        NUMBER OF CUSTOMER          PACKAGE ID          PACKAGE PRICE(RM)        PACKAGE ADD-ON      PAYMENT METHOD
+Ahmad Zahir         ahmad.zahir@gmail.com         0123456789                 3                       1                    120.0                     A                Cash                
+Siti Aishah         siti.aishah@gmail.com         0194567890                 2                       2                    120.0                     B                DuitNow             
+Lee Wei             lee.wei@gmail.com             0115678901                 4                       1                    150.0                     C                Cash                
+Mohan Kumar         mohan.kumar@gmail.com         0186789012                 1                       2                    120.0                     B                DuitNow             
+Fatimah Aziz        fatimah.aziz@gmail.com        0177890123                 6                       1                    150.0                     C                DuitNow             
+Ahmad Farid         ahmad.farid@gmail.com         0138901234                 3                       2                    150.0                     B                Cash                
+Nurul Huda          nurul.huda@gmail.com          0169012345                 5                       1                    150.0                     B                Cash                
+Chong Li            chong.li@gmail.com            0150123456                 4                       2                    120.0                     B                DuitNow             
+Ravi Singh          ravi.singh@gmail.com          0141234567                 5                       1                    150.0                     C                Cash                
+Aisha Rahman        aisha.rahman@gmail.com        0132345678                 2                       2                    150.0                     B                DuitNow             
+Daniel Tan          daniel.tan@gmail.com          0123456780                 1                       1                    120.0                     C                Cash                
+Maya Ibrahim        maya.ibrahim@gmail.com        0194567891                 8                       2                    150.0                     C                DuitNow             
+Zainab Ali          zainab.ali@gmail.com          0185678902                 3                       1                    120.0                     B                Cash                
+Hafiz Noor          hafiz.noor@gmail.com          0176789013                 2                       1                    120.0                     A                Cash                
+Sofia Nasir         sofia.nasir@gmail.com         0167890124                 4                       2                    150.0                     B                Cash                
+Rina Khairudin      rina.khairudin@gmail.com      0158901235                 3                       1                    150.0                     C                DuitNow             
+Aminah Hassan       aminah.hassan@gmail.com       0149012346                 6                       2                    120.0                     C                Cash                
+Syafiq Abdullah     syafiq.abdullah@gmail.com     01301234571                1                       1                    120.0                     B                Cash                
+Farah Azman         farah.azman@gmail.com         0121234568                 2                       2                    150.0                     B                Cash                
+Kevin Chua          kevin.chua@gmail.com          0192345679                 1                       1                    150.0                     C                DuitNow             
+Iman Hakim          iman.hakim@gmail.com          0135407015                 6                       1                    120.0                     A                Cash                
+Fatin Farhana       fatin.farhana@gmail.com       0178428643                 2                       2                    150.0                     C                DuitNow             
+Kamylea             kamylea@gmail.com             0178428643                 5                       2                    150.0                     C                Cash                
+Dhia Maisarah       dhia.maisarah@gmail.com       012765389                  3                       1                    120.0                     B                Cash                
+Nur Asiah           nur.asiah@gmail.com           015678543                  2                       2                    150.0                     B                DuitNow             
+
+=================================================================================================================================================================================
+					Sorted Customers Data
+=================================================================================================================================================================================
+  NAME                      EMAIL                PHONE NUMBER        NUMBER OF CUSTOMER          PACKAGE ID          PACKAGE PRICE(RM)        PACKAGE ADD-ON      PAYMENT METHOD
+Ahmad Farid         ahmad.farid@gmail.com         0138901234                 3                       2                    150.0                     B                Cash                
+Ahmad Zahir         ahmad.zahir@gmail.com         0123456789                 3                       1                    120.0                     A                Cash                
+Aisha Rahman        aisha.rahman@gmail.com        0132345678                 2                       2                    150.0                     B                DuitNow             
+Aminah Hassan       aminah.hassan@gmail.com       0149012346                 6                       2                    120.0                     C                Cash                
+Chong Li            chong.li@gmail.com            0150123456                 4                       2                    120.0                     B                DuitNow             
+Daniel Tan          daniel.tan@gmail.com          0123456780                 1                       1                    120.0                     C                Cash                
+Dhia Maisarah       dhia.maisarah@gmail.com       012765389                  3                       1                    120.0                     B                Cash                
+Farah Azman         farah.azman@gmail.com         0121234568                 2                       2                    150.0                     B                Cash                
+Fatimah Aziz        fatimah.aziz@gmail.com        0177890123                 6                       1                    150.0                     C                DuitNow             
+Fatin Farhana       fatin.farhana@gmail.com       0178428643                 2                       2                    150.0                     C                DuitNow             
+Hafiz Noor          hafiz.noor@gmail.com          0176789013                 2                       1                    120.0                     A                Cash                
+Iman Hakim          iman.hakim@gmail.com          0135407015                 6                       1                    120.0                     A                Cash                
+Kamylea             kamylea@gmail.com             0178428643                 5                       2                    150.0                     C                Cash                
+Kevin Chua          kevin.chua@gmail.com          0192345679                 1                       1                    150.0                     C                DuitNow             
+Lee Wei             lee.wei@gmail.com             0115678901                 4                       1                    150.0                     C                Cash                
+Maya Ibrahim        maya.ibrahim@gmail.com        0194567891                 8                       2                    150.0                     C                DuitNow             
+Mohan Kumar         mohan.kumar@gmail.com         0186789012                 1                       2                    120.0                     B                DuitNow             
+Nur Asiah           nur.asiah@gmail.com           015678543                  2                       2                    150.0                     B                DuitNow             
+Nurul Huda          nurul.huda@gmail.com          0169012345                 5                       1                    150.0                     B                Cash                
+Ravi Singh          ravi.singh@gmail.com          0141234567                 5                       1                    150.0                     C                Cash                
+Rina Khairudin      rina.khairudin@gmail.com      0158901235                 3                       1                    150.0                     C                DuitNow             
+Siti Aishah         siti.aishah@gmail.com         0194567890                 2                       2                    120.0                     B                DuitNow             
+Sofia Nasir         sofia.nasir@gmail.com         0167890124                 4                       2                    150.0                     B                Cash                
+Syafiq Abdullah     syafiq.abdullah@gmail.com     01301234571                1                       1                    120.0                     B                Cash                
+Zainab Ali          zainab.ali@gmail.com          0185678902                 3                       1                    120.0                     B                Cash                
+
+=================================================================================================================================================================================
+					Customers with more than 3 members
+=================================================================================================================================================================================
+  NAME                      EMAIL                PHONE NUMBER        NUMBER OF CUSTOMER          PACKAGE ID          PACKAGE PRICE(RM)        PACKAGE ADD-ON      PAYMENT METHOD
+Aminah Hassan       aminah.hassan@gmail.com       0149012346                 6                       2                    120.0                     C                Cash                
+Chong Li            chong.li@gmail.com            0150123456                 4                       2                    120.0                     B                DuitNow             
+Fatimah Aziz        fatimah.aziz@gmail.com        0177890123                 6                       1                    150.0                     C                DuitNow             
+Iman Hakim          iman.hakim@gmail.com          0135407015                 6                       1                    120.0                     A                Cash                
+Kamylea             kamylea@gmail.com             0178428643                 5                       2                    150.0                     C                Cash                
+Lee Wei             lee.wei@gmail.com             0115678901                 4                       1                    150.0                     C                Cash                
+Maya Ibrahim        maya.ibrahim@gmail.com        0194567891                 8                       2                    150.0                     C                DuitNow             
+Nurul Huda          nurul.huda@gmail.com          0169012345                 5                       1                    150.0                     B                Cash                
+Ravi Singh          ravi.singh@gmail.com          0141234567                 5                       1                    150.0                     C                Cash                
+Sofia Nasir         sofia.nasir@gmail.com         0167890124                 4                       2                    150.0                     B                Cash                
+
+================================================================================================================================================
+					Total number of people who booked each package
+================================================================================================================================================
+Deluxe Double: 43
+Deluxe Twin: 41
+
+=============================================================================================================================================================================================================
+					Modifying Package Add-On for customers with packageID = 2
+=============================================================================================================================================================================================================
+UPDATED CUSTOMERS:
+  NAME                      EMAIL                PHONE NUMBER        NUMBER OF CUSTOMER          PACKAGE ID          PACKAGE PRICE(RM)        PACKAGE ADD-ON      PAYMENT METHOD
+Ahmad Farid         ahmad.farid@gmail.com         0138901234                 3                       2                    150.0                     A                Cash                [Free Breakfast(A)]
+Aisha Rahman        aisha.rahman@gmail.com        0132345678                 2                       2                    150.0                     A                DuitNow             [Free Breakfast(A)]
+Aminah Hassan       aminah.hassan@gmail.com       0149012346                 6                       2                    120.0                     A                Cash                [Free Breakfast(A)]
+Chong Li            chong.li@gmail.com            0150123456                 4                       2                    120.0                     A                DuitNow             [Free Breakfast(A)]
+Farah Azman         farah.azman@gmail.com         0121234568                 2                       2                    150.0                     A                Cash                [Free Breakfast(A)]
+Fatin Farhana       fatin.farhana@gmail.com       0178428643                 2                       2                    150.0                     A                DuitNow             [Free Breakfast(A)]
+Kamylea             kamylea@gmail.com             0178428643                 5                       2                    150.0                     A                Cash                [Free Breakfast(A)]
+Maya Ibrahim        maya.ibrahim@gmail.com        0194567891                 8                       2                    150.0                     A                DuitNow             [Free Breakfast(A)]
+Mohan Kumar         mohan.kumar@gmail.com         0186789012                 1                       2                    120.0                     A                DuitNow             [Free Breakfast(A)]
+Nur Asiah           nur.asiah@gmail.com           015678543                  2                       2                    150.0                     A                DuitNow             [Free Breakfast(A)]
+Siti Aishah         siti.aishah@gmail.com         0194567890                 2                       2                    120.0                     A                DuitNow             [Free Breakfast(A)]
+Sofia Nasir         sofia.nasir@gmail.com         0167890124                 4                       2                    150.0                     A                Cash                [Free Breakfast(A)]
+
+=================================================================================================================================================================================
+					Removing records for customers with paymentMethod = 'DuitNow'
+=================================================================================================================================================================================
+REMOVED CUSTOMERS:
+  NAME                      EMAIL                PHONE NUMBER        NUMBER OF CUSTOMER          PACKAGE ID          PACKAGE PRICE(RM)        PACKAGE ADD-ON      PAYMENT METHOD
+Aisha Rahman        aisha.rahman@gmail.com        0132345678                 2                       2                    150.0                     A                DuitNow             
+Chong Li            chong.li@gmail.com            0150123456                 4                       2                    120.0                     A                DuitNow             
+Fatimah Aziz        fatimah.aziz@gmail.com        0177890123                 6                       1                    150.0                     C                DuitNow             
+Fatin Farhana       fatin.farhana@gmail.com       0178428643                 2                       2                    150.0                     A                DuitNow             
+Kevin Chua          kevin.chua@gmail.com          0192345679                 1                       1                    150.0                     C                DuitNow             
+Maya Ibrahim        maya.ibrahim@gmail.com        0194567891                 8                       2                    150.0                     A                DuitNow             
+Mohan Kumar         mohan.kumar@gmail.com         0186789012                 1                       2                    120.0                     A                DuitNow             
+Nur Asiah           nur.asiah@gmail.com           015678543                  2                       2                    150.0                     A                DuitNow             
+Rina Khairudin      rina.khairudin@gmail.com      0158901235                 3                       1                    150.0                     C                DuitNow             
+Siti Aishah         siti.aishah@gmail.com         0194567890                 2                       2                    120.0                     A                DuitNow             
+
+ON LIST CUSTOMERS:
+  NAME                      EMAIL                PHONE NUMBER        NUMBER OF CUSTOMER          PACKAGE ID          PACKAGE PRICE(RM)        PACKAGE ADD-ON      PAYMENT METHOD
+Ahmad Farid         ahmad.farid@gmail.com         0138901234                 3                       2                    150.0                     A                Cash                
+Ahmad Zahir         ahmad.zahir@gmail.com         0123456789                 3                       1                    120.0                     A                Cash                
+Aminah Hassan       aminah.hassan@gmail.com       0149012346                 6                       2                    120.0                     A                Cash                
+Daniel Tan          daniel.tan@gmail.com          0123456780                 1                       1                    120.0                     C                Cash                
+Dhia Maisarah       dhia.maisarah@gmail.com       012765389                  3                       1                    120.0                     B                Cash                
+Farah Azman         farah.azman@gmail.com         0121234568                 2                       2                    150.0                     A                Cash                
+Hafiz Noor          hafiz.noor@gmail.com          0176789013                 2                       1                    120.0                     A                Cash                
+Iman Hakim          iman.hakim@gmail.com          0135407015                 6                       1                    120.0                     A                Cash                
+Kamylea             kamylea@gmail.com             0178428643                 5                       2                    150.0                     A                Cash                
+Lee Wei             lee.wei@gmail.com             0115678901                 4                       1                    150.0                     C                Cash                
+Nurul Huda          nurul.huda@gmail.com          0169012345                 5                       1                    150.0                     B                Cash                
+Ravi Singh          ravi.singh@gmail.com          0141234567                 5                       1                    150.0                     C                Cash                
+Sofia Nasir         sofia.nasir@gmail.com         0167890124                 4                       2                    150.0                     A                Cash                
+Syafiq Abdullah     syafiq.abdullah@gmail.com     01301234571                1                       1                    120.0                     B                Cash                
+Zainab Ali          zainab.ali@gmail.com          0185678902                 3                       1                    120.0                     B                Cash                

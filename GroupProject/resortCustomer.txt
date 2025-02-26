@@ -1,0 +1,25 @@
+Ahmad Zahir,ahmad.zahir@gmail.com,0123456789,3,1,120,A,Cash
+Siti Aishah,siti.aishah@gmail.com,0194567890,2,2,120,B,DuitNow
+Lee Wei,lee.wei@gmail.com,0115678901,4,1,150,C,Cash
+Mohan Kumar,mohan.kumar@gmail.com,0186789012,1,2,120,B,DuitNow
+Fatimah Aziz,fatimah.aziz@gmail.com,0177890123,6,1,150,C,DuitNow
+Ahmad Farid,ahmad.farid@gmail.com,0138901234,3,2,150,B,Cash
+Nurul Huda,nurul.huda@gmail.com,0169012345,5,1,150,B,Cash
+Chong Li,chong.li@gmail.com,0150123456,4,2,120,B,DuitNow
+Ravi Singh,ravi.singh@gmail.com,0141234567,5,1,150,C,Cash
+Aisha Rahman,aisha.rahman@gmail.com,0132345678,2,2,150,B,DuitNow
+Daniel Tan,daniel.tan@gmail.com,0123456780,1,1,120,C,Cash
+Maya Ibrahim,maya.ibrahim@gmail.com,0194567891,8,2,150,C,DuitNow
+Zainab Ali,zainab.ali@gmail.com,0185678902,3,1,120,B,Cash
+Hafiz Noor,hafiz.noor@gmail.com,0176789013,2,1,120,A,Cash
+Sofia Nasir,sofia.nasir@gmail.com,0167890124,4,2,150,B,Cash
+Rina Khairudin,rina.khairudin@gmail.com,0158901235,3,1,150,C,DuitNow
+Aminah Hassan,aminah.hassan@gmail.com,0149012346,6,2,120,C,Cash
+Syafiq Abdullah,syafiq.abdullah@gmail.com,01301234571,1,1,120,B,Cash
+Farah Azman,farah.azman@gmail.com,0121234568,2,2,150,B,Cash
+Kevin Chua,kevin.chua@gmail.com,0192345679,1,1,150,C,DuitNow
+Iman Hakim,iman.hakim@gmail.com,0135407015,6,1,120,A,Cash
+Fatin Farhana,fatin.farhana@gmail.com,0178428643,2,2,150,C,DuitNow
+Kamylea,kamylea@gmail.com,0178428643,5,2,150,C,Cash
+Dhia Maisarah,dhia.maisarah@gmail.com,012765389,3,1,120,B,Cash
+Nur Asiah,nur.asiah@gmail.com,015678543,2,2,150,B,DuitNow
